@@ -1,0 +1,25 @@
+{
+  "name": "avergonzadoarellano_prelimexam",
+  "version": "1.0.0",
+  "description": "AvergonzadoArellano_PrelimExam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cavergonzado/AvergonzadoArellano.git"
+  },
+  "keywords": [
+    "PrelimExam"
+  ],
+  "author": "AvergonzadoArellano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cavergonzado/AvergonzadoArellano/issues"
+  },
+  "homepage": "https://github.com/Cavergonzado/AvergonzadoArellano#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
